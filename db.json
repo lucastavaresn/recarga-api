@@ -1,0 +1,32 @@
+[
+    {
+        "company_id": 1,
+        "company": "Vivo",
+        "products": [
+            {
+                "id": "vivo10",
+                "value": 10
+            },
+            {
+                "id": "vivo15",
+                "value": 15
+            }
+        ]
+
+    },
+    {
+        "company_id": 2,
+        "company": "Tim",
+        "products": [
+            {
+                "id": "tim10",
+                "value": 10
+            },
+            {
+                "id": "tim15",
+                "value": 15
+            }
+        ]
+
+    }
+]
